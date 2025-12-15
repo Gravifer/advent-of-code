@@ -1,5 +1,5 @@
 /**
- * Advent of Code - Year YYYY - Day XX
+ * Advent of Code - Year 2024 - Day 01
  * Solution in JavaScript
  */
 
